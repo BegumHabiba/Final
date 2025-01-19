@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -19,7 +18,7 @@
         android:background="@drawable/button_background"
         android:textColor="#9C27B0"
         android:padding="16dp"
-        android:text="@string/high_quality"
+        android:text="High Quality"
         android:textStyle="bold" />
 
     <Button
