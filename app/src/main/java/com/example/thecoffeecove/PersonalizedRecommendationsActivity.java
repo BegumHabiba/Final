@@ -30,7 +30,7 @@ public class PersonalizedRecommendationsActivity extends AppCompatActivity {
         backButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                // Navigate back to UserConnectionActivity
+
                 Intent intent1 = new Intent(PersonalizedRecommendationsActivity.this, Facilities.class);
                 startActivity(intent1);
             }
