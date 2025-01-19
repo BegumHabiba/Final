@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728029004112",
+    "project_id": "thecoffeecove-9995d",
+    "storage_bucket": "thecoffeecove-9995d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728029004112:android:662357784a76116751ac55",
+        "android_client_info": {
+          "package_name": "com.example.thecoffeecove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp9UoKsjQfIushMtxOa76S7tiYfjp1vqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
