@@ -24,7 +24,7 @@ public class PersonalizedRecommendationsActivity extends AppCompatActivity {
         @SuppressLint({"MissingInflatedId", "LocalSuppress"})
         Button backButton = findViewById(R.id.btn_back10);
 
-        // Load and display recommendations
+
         loadRecommendations();
 
         backButton.setOnClickListener(new View.OnClickListener() {
@@ -38,7 +38,7 @@ public class PersonalizedRecommendationsActivity extends AppCompatActivity {
     }
 
     private void loadRecommendations() {
-        // Sample recommendations
+
         String[] recommendations = {
                 "Try our signature Hazelnut Latte!",
                 "How about a refreshing Iced Caramel Macchiato?",
