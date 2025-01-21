@@ -7,6 +7,7 @@
     android:orientation="vertical"
     android:padding="16dp"
     android:background="#426766"
+    tools:context=".New_User"
     android:gravity="center">
 
     <TextView
@@ -96,7 +97,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Phone"
-        android:drawableLeft="phone_number"
+        android:drawableLeft="@drawable/phone_number"
         android:inputType="phone"
         android:drawablePadding="8dp"
         android:padding="12dp"

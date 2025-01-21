@@ -7,7 +7,8 @@
     android:orientation="vertical"
     tools:context=".Facilities"
     android:background="#D9EAFB"
-    android:padding="16dp">
+    android:padding="16dp"
+    >
 
     <TextView
         android:id="@+id/tVTitle"

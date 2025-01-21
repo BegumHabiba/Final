@@ -1,4 +1,3 @@
-
 package com.example.thecoffeecove;
 
 import android.content.Intent;

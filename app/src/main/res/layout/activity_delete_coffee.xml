@@ -5,14 +5,15 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#A82ABFA9"
-    android:padding="16dp">
+    android:padding="16dp"
+    tools:context=".DeleteCoffeeActivity">
 
     <!-- Header -->
     <TextView
         android:id="@+id/text_view_header"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/to_delete_search_a_product_by_name"
+        android:text="To Delete Seearch a Product By Name"
         android:textSize="18sp"
         android:textStyle="bold"
         android:gravity="center"
@@ -112,7 +113,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:backgroundTint="@color/design_default_color_error"
-            android:text="@string/delete_product"
+            android:text="Delete Product"
             android:textColor="#F8BBD0"
             tools:ignore="VisualLintButtonSize" />
     </LinearLayout>

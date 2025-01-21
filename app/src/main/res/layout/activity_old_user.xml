@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#E675AF4C"
+    tools:context=".Old_User"
     android:padding="16dp">
 
     <TextView
@@ -67,7 +68,7 @@
             android:layout_height="wrap_content"
             android:hint="Enter Password"
             android:inputType="textPassword"
-            android:drawableLeft="@drawable/baseline_key_24"
+            android:drawableLeft="@drawable/password"
             android:drawablePadding="8dp"
             android:padding="12dp"
             android:textColor="#000000"

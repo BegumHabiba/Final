@@ -1,4 +1,3 @@
-
 package com.example.thecoffeecove;
 
 import android.database.Cursor;
